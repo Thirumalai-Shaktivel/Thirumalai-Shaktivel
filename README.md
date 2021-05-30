@@ -2,6 +2,7 @@
 
 ### About Me
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+🌟 GSoC Student Developer at Fortran-Lang organization.
 </br>
 <a href="https://twitter.com/sh0ck_thi">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,7 +15,7 @@
 
 ### Ongoing Projects  🚀
 
-- **LFortran** - LFortran is a modern open-source (BSD licensed) interactive Fortran compiler built on top of LLVM. Working with **[Ondrej Certik](https://github.com/certik)** on Abstract Syntax Tree (AST).
+- **[LFortran](https://gitlab.com/lfortran/lfortran)** - LFortran is a modern open-source (BSD licensed) interactive Fortran compiler built on top of LLVM. Working with **[Ondrej Certik](https://github.com/certik)** on Lexical Analysis and Syntax Analysis(AST)(Complier phases).
 
 ![](https://github-readme-stats.vercel.app/api?username=Thirumalai-Shaktivel&show_icons=true&hide_border=true)
 <br />
